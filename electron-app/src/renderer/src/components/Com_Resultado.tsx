@@ -9,43 +9,57 @@ export function Com_Resultado(){
             <div className="grid grid-flow-col grid-rows-3 gap-4">
                 <div className="row-span-3 ...  w-200 h-120">01
                   <div className="flex ...">
-                    <div className="size-14 grow-1... bg-amber-300 h-9 m-1">01</div>
-                    <div className="size-14 bg-red-700 m-1 w-25 h-9">02</div>
-                    <div className="size-14 bg-red-700 m-1 w-25 h-9">03</div>
+                    <div className="size-14 grow-1... h-9 m-1"></div>
+                    <div className="size-14  m-1 w-25 h-9">Técnica</div>
+                    <div className="size-14  m-1 w-25 h-9">Apresentação</div>
                   </div>
                   <div className="flex ...">
                     <div className="size-14 grow-1... bg-amber-300 h-9 m-1">01</div>
                      <div className="size-14 bg-red-700 m-1 w-25 h-9">02</div>
-                    <div className="size-14 bg-red-700 m-1 w-25 h-9">03</div>
+                    <div className="size-14 bg-blue-900 m-1 w-25 h-9">03</div>
                   </div>
                   <div className="flex ...">
                     <div className="size-14 grow-1... bg-amber-300 h-9 m-1">01</div>
                      <div className="size-14 bg-red-700 m-1 w-25 h-9">02</div>
-                    <div className="size-14 bg-red-700 m-1 w-25 h-9">03</div>
+                    <div className="size-14 bg-blue-900 m-1 w-25 h-9">03</div>
                   </div>
                   <div className="flex ...">
                     <div className="size-14 grow-1... bg-amber-300 h-9 m-1">01</div>
                      <div className="size-14 bg-red-700 m-1 w-25 h-9">02</div>
-                    <div className="size-14 bg-red-700 m-1 w-25 h-9">03</div>
+                    <div className="size-14 bg-blue-900 m-1 w-25 h-9">03</div>
                   </div>
                   <div className="flex ...">
                     <div className="size-14 grow-1... bg-amber-300 h-9 m-1">01</div>
                      <div className="size-14 bg-red-700 m-1 w-25 h-9">02</div>
-                    <div className="size-14 bg-red-700 m-1 w-25 h-9">03</div>
+                    <div className="size-14 bg-blue-900 m-1 w-25 h-9">03</div>
                   </div>
                   <div className="flex ...">
                     <div className="size-14 grow-1... bg-amber-300 h-9 m-1">01</div>
                      <div className="size-14 bg-red-700 m-1 w-25 h-9">02</div>
-                    <div className="size-14 bg-red-700 m-1 w-25 h-9">03</div>
+                    <div className="size-14 bg-blue-900 m-1 w-25 h-9">03</div>
                   </div>
                   <div className="flex ...">
                     <div className="size-14 grow-1... bg-amber-300 h-9 m-1">01</div>
                      <div className="size-14 bg-red-700 m-1 w-25 h-9">02</div>
-                    <div className="size-14 bg-red-700 m-1 w-25 h-9">03</div>
+                    <div className="size-14 bg-blue-900 m-1 w-25 h-9">03</div>
                   </div>
                 </div>
-                <div className="col-span-2 ...">02</div>
-                <div className="col-span-2 row-span-2 ...">03</div>
+                <div className="col-span-2 ... mr-32">
+                  <div className="w-45 h-45 mt-32" >
+                    <h1 className="text-amber-100 text-9xl text-center w-75 h-40" >0.00</h1>
+                  </div>
+                  
+
+                </div>
+                <div className="col-span-2 row-span-2 ...">
+                  <h2 className="text-center">0.00</h2>
+                  <div className="flex ...">
+
+                    <div className="size-14 grow-1... bg-amber-300 h-9 m-1">01</div>
+                     <div className="size-14 bg-red-700 m-1 w-25 h-9">02</div>
+                    <div className="size-14 bg-blue-900 m-1 w-25 h-9">03</div>
+                  </div>
+                </div>
 </div>
          </div>
         <Link to="/Tradicional">Voltar</Link>
